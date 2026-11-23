@@ -18,6 +18,12 @@ The app keeps the uploaded template as the basis for the output. It replaces mar
 - Download a PDF when LibreOffice is installed on the machine running the app.
 - Keep provider settings and the API key out of the app interface.
 
+## Links
+
+- **Live application:** https://surfsync-document-generator.streamlit.app/
+- **Demo video:** [Add a public or view-accessible video link here]
+- **Source code:** https://github.com/abhilasha-17/surfsync-ai-document-generator
+
 ## Project structure
 
 ```text
@@ -50,8 +56,4 @@ The app keeps the uploaded template as the basis for the output. It replaces mar
 └── README.md
 
 
-## Links
 
-- **Live application:** https://surfsync-document-generator.streamlit.app/
-- **Demo video:** [Add a public or view-accessible video link here]
-- **Source code:** https://github.com/abhilasha-17/surfsync-ai-document-generator

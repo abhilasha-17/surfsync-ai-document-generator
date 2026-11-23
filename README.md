@@ -21,7 +21,7 @@ The app keeps the uploaded template as the basis for the output. It replaces mar
 ## Links
 
 - **Live application:** https://surfsync-document-generator.streamlit.app/
-- **Demo video:** [Add a public or view-accessible video link here]
+- **Demo video:** https://drive.google.com/file/d/1w-RGcV1S0vC-8XXPOUlvGFJQuEWmM1or/view?usp=sharing
 - **Source code:** https://github.com/abhilasha-17/surfsync-ai-document-generator
 
 ## Project structure

@@ -48,3 +48,10 @@ The app keeps the uploaded template as the basis for the output. It replaces mar
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+
+## Links
+
+- **Live application:** https://surfsync-document-generator.streamlit.app/
+- **Demo video:** [Add a public or view-accessible video link here]
+- **Source code:** https://github.com/abhilasha-17/surfsync-ai-document-generator
